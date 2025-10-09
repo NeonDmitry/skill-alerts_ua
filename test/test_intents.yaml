@@ -23,7 +23,7 @@
 
 en-us:
   CreateAlarm:
-    - set alarm:
+    - set an alarm:
         - set
         - alarm
     - create a playback alarm every weekday with my test script until next tuesday:
