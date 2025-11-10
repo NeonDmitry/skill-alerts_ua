@@ -161,7 +161,7 @@ uk-ua:
         - alarm: будильник
         - everyday: щодня
     - зробити будильник на вихідні:
-        - set: встановити
+        - set: зробити
         - alarm: будильник
         - weekends: вихідні
   CreateTimer:
